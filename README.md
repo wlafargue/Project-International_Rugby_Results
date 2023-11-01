@@ -1,8 +1,8 @@
-# International Rugby Union results from 1871-2023  
+# PostgreSQL analysis of International Rugby Union results  
 
 Data analysis is taking more and more importance in sports to extract useful informations. This outcomes could be of particular interest not only for sport (for example, coaches who are interested in team's or player's performance) but also for business (number of sold tickets, etc.).
 
-This notebook presents a short analysis of a dataset built on results of international rugby teams using PostgreSQL. Data visualization is done with Seaborn.
+This notebook presents a short analysis of a dataset built on results of international rugby teams from 1871 to 2023 using PostgreSQL. Data visualization is done with Seaborn.
 
 **Dataset**
 
